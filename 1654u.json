@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1654",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1654u.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1654u2.png",
   "dna": "67756453f82326886f6461ef0e87958d65c476cd",
   "edition": 1654,
   "date": 1653493091500,
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "WHITE SHIRT"
+      "value": "CLASSIC BLACK HOODIE"
     },
     {
       "trait_type": "ACCESSORIES",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1654u.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1654u2.png"
       }
     ]
   }
