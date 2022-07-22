@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #3022",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/3022u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/3022u2.png",
   "dna": "17761b87e9aae1879e50d44f094f35ed1f4d3754",
   "edition": 3022,
   "date": 1653509743365,
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "CURIOUS"
+      "value": "MUSTACHIO"
     },
     {
       "trait_type": "OUTFIT",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/3022u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/3022u2.png"
       }
     ]
   }
