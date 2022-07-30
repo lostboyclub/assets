@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #2867",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/2867u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/2867u2.png",
   "dna": "66a7635e4d788e6e74509e279d6656d0aca9cfd5",
   "edition": 2867,
   "date": 1653507855251,
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "BLACK SLEEVELESS"
+      "value": "SLOW RACER JACKET"
     },
     {
       "trait_type": "ACCESSORIES",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/2867u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/2867u2.png"
       }
     ]
   }
