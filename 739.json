@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #739",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/739u1.png",
+  "dna": "ce351ac1cc6c5a6c4339aa0ef40cfb450821412b",
+  "edition": 739,
+  "date": 1653481462274,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "HALF DEEP"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED DARK"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "CURL CLASSIC"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "WHITE ROUNDED GLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "SMOKE"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "CASUAL SACRAMENTO SUIT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/739u1.png"
+      }
+    ]
+  }
+}
