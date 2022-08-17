@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #2710",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/2710u1.png",
+  "dna": "b44f997c292062f97eb765be6e8bc78f88988719",
+  "edition": 2710,
+  "date": 1653505946538,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "GRADIENT PURP GREY"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "DARK"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "KOREAN MULLET BLOND"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "WHITE SUNGLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "FLAT"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "CASUAL SACRAMENTO SUIT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC PERFORATED PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/2710u1.png"
+      }
+    ]
+  }
+}
