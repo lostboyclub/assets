@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1590",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1590u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1590u2.png",
   "dna": "4792fb659da24fc183946c9db941dd7056489e97",
   "edition": 1590,
   "date": 1653492324450,
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "CLOSED"
+      "value": "BANDHOLZ"
     },
     {
       "trait_type": "OUTFIT",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1590u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1590u2.png"
       }
     ]
   }
