@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #3294",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/3294u2.png",
+  "dna": "6267b2c65bd111ae212f7708c2eabd51aad4b1a9",
+  "edition": 3294,
+  "date": 1653513040982,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "DEEP"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "SOLSKIN"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "KOREAN MULLET GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "BROWLINE GLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "INTROVERTED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "WHITE SLEEVELESS"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "WHITE EARRING"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/3294u2.png"
+      }
+    ]
+  }
+}
