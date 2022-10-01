@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1869",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1869u2.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1869u3.png",
   "dna": "f06e54774b4e0d556599a0a03f8e444f5b55c704",
   "edition": 1869,
   "date": 1653495675908,
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "HAIR",
-      "value": "WEEBS CLASSIC"
+      "value": "SHORT BEANIE"
     },
     {
       "trait_type": "FACE",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1869u2.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1869u3.png"
       }
     ]
   }
