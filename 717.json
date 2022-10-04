@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #717",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/717u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/717.png",
   "dna": "67c690cc98551495cfa83ced3aaaff370ac53166",
   "edition": 717,
   "date": 1653481176306,
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "HAIR",
-      "value": "SHORT BEANIE"
+      "value": "EMO BLOND"
     },
     {
       "trait_type": "FACE",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/717u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/717.png"
       }
     ]
   }
