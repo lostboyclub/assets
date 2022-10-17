@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1120",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1120u.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1120u2.png",
   "dna": "8c7cac8791cbea0ddea4aeceb865ef788ecfcb15",
   "edition": 1120,
   "date": 1653486214349,
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "BLACK SHIRT"
+      "value": "BLACK SHIRT + SILVER MEDAL"
     },
     {
       "trait_type": "ACCESSORIES",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1120u.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1120u2.png"
       }
     ]
   }
