@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1187",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1187u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1187u2.png",
   "dna": "e5ef41905425af59b3e503ec60019f533584d637",
   "edition": 1187,
   "date": 1653487029226,
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "FACE",
-      "value": "ANGRY"
+      "value": "BROWLINE GLASSES"
     },
     {
       "trait_type": "MOUTH",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1187u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1187u2.png"
       }
     ]
   }
