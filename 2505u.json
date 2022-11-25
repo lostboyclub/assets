@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #2505",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/2505u1.png",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/2505u2.png",
   "dna": "7a2e45b5d669628375bc547694e7e4862f759b8d",
   "edition": 2505,
   "date": 1653503436585,
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "HAIR",
-      "value": "HOME BOY CLASSIC"
+      "value": "DIAMOND CROWN by @Wagboy.sol"
     },
     {
       "trait_type": "FACE",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/2505u1.png"
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/2505u2.png"
       }
     ]
   }
