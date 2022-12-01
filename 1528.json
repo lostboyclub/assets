@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #1528",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1528u1.png",
+  "dna": "50738cf1b5a9e18059184ee28292642bf152fa93",
+  "edition": 1528,
+  "date": 1653491542341,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "QUARTER EMINENCE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "DARK"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "PYRAMID SCHEMER by @Entity_sol"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "MAD"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "OPEN"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BLUE SWEATSHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "ORIGINAL"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1528u1.png"
+      }
+    ]
+  }
+}
