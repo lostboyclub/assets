@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #426",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/426u1.png",
+  "dna": "583155eacc9fe85a05d4f5d354f86776fe6d6631",
+  "edition": 426,
+  "date": 1653477716995,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "HALF PURP GREY"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "CORNFLOWER"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "PYRAMID SCHEMER by @Entity_sol"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "SLEEPY BOY"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "OPEN"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "WHITE SLEEVELESS"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/426u1.png"
+      }
+    ]
+  }
+}
