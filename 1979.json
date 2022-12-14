@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #1979",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/1979u1.png",
+  "image": "https://i.postimg.cc/Y9yKkxCr/1979u2.png",
   "dna": "fb17aeb12e0f17faf7f1f6ecb65c9257204a6f88",
   "edition": 1979,
   "date": 1653496993693,
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "BODY",
-      "value": "DARK"
+      "value": "ALTAIR by Yakety"
     },
     {
       "trait_type": "HAIR",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/1979u1.png"
+        "uri": "https://i.postimg.cc/Y9yKkxCr/1979u2.png"
       }
     ]
   }
