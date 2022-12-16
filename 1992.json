@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #1992",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://i.postimg.cc/kM84xPMW/1992u.png",
+  "dna": "a524938f77decede1d53b34cfe707d659d7d8d4e",
+  "edition": 1992,
+  "date": 1653497149723,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "QUARTER EMINENCE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "ALTAIR by Yakety"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "MULLET CLASSIC"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "DORK"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "CLOSED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BLACK SHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "ORIGINAL"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/kM84xPMW/1992u.png"
+      }
+    ]
+  }
+}
