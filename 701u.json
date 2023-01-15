@@ -1,7 +1,7 @@
 {
   "name": "LOST BOY CLUB #701",
   "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
-  "image": "https://raw.githubusercontent.com/lostboyclub/assets/main/701u1.png",
+  "image": "https://i.postimg.cc/Dy2SCNT6/701u2.png",
   "dna": "cabe4c23a3411e599ec4e8bf1595e4b3928e9675",
   "edition": 701,
   "date": 1653480987217,
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "BLUE SWEATSHIRT"
+      "value": "LOST PHOTOGRAPHER by Kevin Icabales"
     },
     {
       "trait_type": "ACCESSORIES",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lostboyclub/assets/main/701u1.png"
+        "uri": "https://i.postimg.cc/Dy2SCNT6/701u2.png"
       }
     ]
   }
