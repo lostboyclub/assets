@@ -1,0 +1,46 @@
+{
+  "name": "LOST BOY CLUB #2544",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://i.postimg.cc/yxhm17fZ/2544u1.png",
+  "dna": "a2e5264c765b4c8b4de1de121fe8aad09b65d8ce",
+  "edition": 2544,
+  "date": 1653503915938,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "GRADIENT POWDER"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED MEDIUM"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "MOOSE GEAR by @goofywoof19"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "DIZZY"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "CLOSED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "MUSTARD SWEATSHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "ORIGINAL"
+    }
+  ],
+  "compiler": "Lost Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/yxhm17fZ/2544u1.png"
+      }
+    ]
+  }
+}
