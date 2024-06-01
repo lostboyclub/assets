@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #2979",
+  "description": "LOST BOY CLUB is a collection of 3,333 minimalist 2D art based pfp minted on Solana blockchain. Holding LOST BOY CLUB nft(s) will give you a chance in getting FREE NFT/SOL WEEKLY through raffle!",
+  "image": "https://postimage.me/images/2024/06/01/2979x.png",
+  "dna": "4811731ea6a951800f8637456a1c7e68d12c6f7f",
+  "edition": 2979,
+  "date": 1653509220554,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "GRADIENT POWDER"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "MEDIUM"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "HOME BOY BLEACHED"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "ANGRY"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "FLAT"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BLUE VARSITY"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
