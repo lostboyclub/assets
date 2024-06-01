@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #609",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/01/609.png",
+  "dna": "78a1a3323e7d9523d992c603b30caf155c539552",
+  "edition": 609,
+  "date": 1653479893778,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "QUARTER POWDER"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED CORNFLOWER"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "WEEBS CLASSIC"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "SLEEPY BOY"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "FLAT"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "MUSTARD TURTLENECK"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "WHITE SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
