@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #3262",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/3262.png",
+  "dna": "df81afd8392149c60403e55f379d7ebafefd58ea",
+  "edition": 3262,
+  "date": 1653512654622,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "DEEP"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED MEDIUM"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "WEEBS GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "DORK"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "OPEN"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "WHITE TURTLENECK"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "LFG"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
