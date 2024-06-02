@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #2714",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/2714.png",
+  "dna": "fda5b632085b5f08eda77fdef66a273b27cf8296",
+  "edition": 2714,
+  "date": 1653505995870,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "GRADIENT BLUE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "DARK"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "LONGWAVE GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "FULL WHITE GLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "HAPPY"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BLUE SHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC PERFORATED PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
