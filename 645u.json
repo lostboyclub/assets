@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #645",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/645.png",
+  "dna": "c05839358fb2e319aac4caec1456bd5d46249316",
+  "edition": 645,
+  "date": 1653480323081,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "QUARTER POWDER"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED STONE BOY"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "MULLET CLASSIC"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "WHITE SUNGLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "CLOSED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BROWN TURTLENECK"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "WHITE SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
