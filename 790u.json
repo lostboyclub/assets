@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #790",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/790.png",
+  "dna": "e8d455b43fe7c5b3cfdcd7ccdc74882cecae79ed",
+  "edition": 790,
+  "date": 1653482145798,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "HALF POWDER"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "CORNFLOWER"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "NEAT GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "MAD"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "FLAT"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BB CARDI"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "HMM WHITE"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
