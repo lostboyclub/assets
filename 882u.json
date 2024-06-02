@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #882",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/882.png",
+  "dna": "dc0327bc628832981ddb4975ddd9cdedb8697d50",
+  "edition": 882,
+  "date": 1653483310252,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "GRADIENT PURP GREY"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "MEDIUM"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "CURL CLASSIC"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "MAD"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "CLOSED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "GREY SHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "WHITE EARRING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
