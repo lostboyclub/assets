@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #1994",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/1994x.png",
+  "dna": "df42d0d865e68d23e460af1f4f073c8081a1e661",
+  "edition": 1994,
+  "date": 1653497173589,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "EMINENCE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "DARK"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "KOREAN MULLET BLOND"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "DORK"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "FLAT"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "WB CARDI"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "CLASSIC SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
