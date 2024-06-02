@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #1754",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/1754.png",
+  "dna": "8182e782eb268c5756773933303d3610441b591c",
+  "edition": 1754,
+  "date": 1653494294804,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "EMINENCE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "MEDIUM"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "KOREAN MULLET GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "WHITE ROUNDED GLASSES"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "INTROVERTED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "BLACK SWEATSHIRT"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "WHITE SMALL PIERCING"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
