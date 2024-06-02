@@ -1,0 +1,39 @@
+{
+  "name": "LOST BOY CLUB #2106",
+  "description": "3,333 Lost Boys who found each other to foster a value driven community. Regular giveaways and alpha calls to create a degen collective that profits together.",
+  "image": "https://postimage.me/images/2024/06/02/2106.png",
+  "dna": "dfb246b9d365850452516895a1b4155a7539d3df",
+  "edition": 2106,
+  "date": 1653498553081,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "EMINENCE"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "TATTOOED CORNFLOWER"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "KOREAN MULLET GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "ANGRY"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "CLOSED"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "MUSTARD TURTLENECK"
+    },
+    {
+      "trait_type": "ACCESSORIES",
+      "value": "ORIGINAL"
+    }
+  ],
+  "compiler": "Lost Engine"
+}
